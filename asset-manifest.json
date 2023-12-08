@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/persist/static/css/main.54763d40.css",
+    "main.js": "/persist/static/js/main.89adf99b.js",
+    "index.html": "/persist/index.html",
+    "main.54763d40.css.map": "/persist/static/css/main.54763d40.css.map",
+    "main.89adf99b.js.map": "/persist/static/js/main.89adf99b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54763d40.css",
+    "static/js/main.89adf99b.js"
+  ]
+}
